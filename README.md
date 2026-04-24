@@ -18,14 +18,3 @@ Live at: **[joshuari03.github.io](https://joshuari03.github.io)**
 ## Tech Stack
 
 Vanilla HTML/CSS/JS · Firebase Firestore · GitHub Pages
-
-## Setup
-
-1. Create a Firebase project and enable Firestore
-2. Paste your `firebaseConfig` values into the `FIREBASE_CONFIG` block in `index.html`
-3. Restrict your API key to your GitHub Pages domain in [Google Cloud Console](https://console.cloud.google.com/apis/credentials)
-4. Push to `main` and enable GitHub Pages in repository settings
-
-## License
-
-MIT
